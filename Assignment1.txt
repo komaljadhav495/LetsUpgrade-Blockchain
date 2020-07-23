@@ -1,0 +1,26 @@
+Q.1) What is your understanding of Blockchain?
+Ans: Blockchain is highly secured,cronologically ordered block that contains information to be stored along with the Hash value of previous block. 
+          Blockchain is decentralized. 
+          The main aim of Blockchain is to reduce the update and delete operations on data to achieve high security.
+          Blockchain implements distributed database to allow multiple user to access it and cryptography to generate the hash value by using SHA-256, MD-5,etc algorithms. 
+
+Q.2) What is the core problem Blockchaing trying to sovle?
+Ans: The problem related to Authenticity and Security. 
+​
+Q.3) What are the few features which Blockchain will give you?
+Ans: -Tamperproof : No one would be able to perform any manipulation operation on existing block.
+          -Immutable : Block can not be able to modify.
+          -Verifiable : Verified by all the blocks.
+          -Transparent : Any change is made will reflect immediately.
+          -Decentralized : Not controlled by any centralized system. Each block is important.
+
+Q.4) What all things does Block contain?
+Ans: -Block number.
+          -Data to be stored.
+          -Hash value of immediate preceded block.
+          -Signature mining key.
+
+Q.5)How is the Verifiability of Blockchain is attained?
+Ans: The verifiability in blockchain is achieves by using the Hash value.
+          Every block contains the hash value of pervious block so if the data or block is tampered then the hash value changes.
+          By acknowledging the difference we can find which block is tampered along the entire chain of block.
